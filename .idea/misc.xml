@@ -5,6 +5,10 @@
       <map>
         <entry key="..\:/Users/kirby/AndroidStudioProjects/Parstagram/app/src/main/res/layout/activity_login.xml" value="0.25" />
         <entry key="..\:/Users/kirby/AndroidStudioProjects/Parstagram/app/src/main/res/layout/activity_main.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/kirby/AndroidStudioProjects/Parstagram/app/src/main/res/layout/fragment_compose.xml" value="0.2921875" />
+        <entry key="..\:/Users/kirby/AndroidStudioProjects/Parstagram/app/src/main/res/layout/fragment_feed.xml" value="0.2921875" />
+        <entry key="..\:/Users/kirby/AndroidStudioProjects/Parstagram/app/src/main/res/layout/item_post.xml" value="0.2921875" />
+        <entry key="..\:/Users/kirby/AndroidStudioProjects/Parstagram/app/src/main/res/menu/menu_bottom_navigation.xml" value="0.3375" />
         <entry key="..\:/Users/kirby/AndroidStudioProjects/Parstagram/app/src/main/res/xml/fileprovider.xml" value="0.20520833333333333" />
       </map>
     </option>
