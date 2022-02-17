@@ -17,9 +17,9 @@ class LoginActivity : AppCompatActivity() {
 
         //Check if the user is logged in
         //If there is, take them to MainActivity
-        //if (ParseUser.getCurrentUser() != null) {
-        //    goToMainActivity()
-        //}
+        if (ParseUser.getCurrentUser() != null) {
+            goToMainActivity()
+        }
         findViewById<Button>(R.id.login_button).setOnClickListener {
             val username = findViewById<EditText>(R.id.et_username).text.toString()
             val password = findViewById<EditText>(R.id.et_password).text.toString()
